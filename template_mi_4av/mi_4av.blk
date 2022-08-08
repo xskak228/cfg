@@ -1,0 +1,21 @@
+name:t="user"
+
+replace_tex{
+  from:t="mi_4av_c*"
+  to:t="mi_4av.tga"
+}
+
+replace_tex{
+  from:t="mi_4av_c_dmg*"
+  to:t="mi_4av_c_dmg.tga"
+}
+
+replace_tex{
+  from:t="mi_4av_n*"
+  to:t="mi_4av_n.tga"
+}
+
+replace_tex{
+  from:t="mi_4av_n_dmg*"
+  to:t="mi_4av_n_dmg.tga"
+}
